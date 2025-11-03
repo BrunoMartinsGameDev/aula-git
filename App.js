@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Texto Alterado</Text>
-      <Text>Diego que alterou</Text>
+      <Text>Diego que alterou 2</Text>
       <StatusBar style="auto" />
     </View>
   );
